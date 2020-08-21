@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<orderList>
+	<id>#C5673_12g</id>
+	<description>Christmas presents</description>
+	<order>
+		<id>OD_017</id>
+		<description>Gaming Console</description>
+		<storageRack>Red</storageRack>
+		<warehouseClerk>ClerkA</warehouseClerk>
+	</order>
+	<order>
+		<id>OD_003</id>
+		<description>Jeans</description>
+		<storageRack>Green</storageRack>
+		<warehouseClerk>ClerkA</warehouseClerk>
+	</order>
+	<order>
+		<id>OD_194</id>
+		<description>Book</description>
+		<storageRack>Yellow</storageRack>
+		<warehouseClerk>ClerkB</warehouseClerk>
+	</order>
+</orderList>

@@ -1,0 +1,8 @@
+<map id="odometrie.h" name="odometrie.h">
+<area shape="rect" id="node4" href="$dcmotor_8h.html" title="to control the motor " alt="" coords="23,155,110,181"/>
+<area shape="rect" id="node8" href="$encoder_8h.html" title="measures the rotation angle of two wheels. " alt="" coords="1277,80,1362,107"/>
+<area shape="rect" id="node14" href="$abstractsensor_8h.html" title="build a abstract class for all sensors " alt="" coords="1098,155,1227,181"/>
+<area shape="rect" id="node15" href="$colorsensor_8h.html" title="to sense the different color " alt="" coords="1096,80,1202,107"/>
+<area shape="rect" id="node16" href="$ultrasonicsensor_8h.html" title="a sensor class for the sensor that can measure the hight from the ground to the above obstacle ..." alt="" coords="1386,80,1525,107"/>
+<area shape="rect" id="node17" href="$linesensor_8h.html" title="to get the siganl of sensors " alt="" coords="973,80,1072,107"/>
+</map>

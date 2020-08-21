@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	 <xs:simpleType name="Color">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="Red" />   
+			<xs:enumeration value="Green" />
+			<xs:enumeration value="Yellow" />
+		</xs:restriction>
+	</xs:simpleType>
+	 
+	 <xs:simpleType name="WarehousClerkID">
+		<xs:restriction base="xs:string">
+			<xs:enumeration value="ClerkA" />   
+			<xs:enumeration value="ClerkB" />
+		</xs:restriction>
+	 </xs:simpleType>
+	 
+	<xs:element name="orderList">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="id" type="xs:string"></xs:element>
+				<xs:element name="description" type="xs:string"></xs:element>
+				<xs:element name="order" maxOccurs="unbounded" minOccurs="1">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="id" type="xs:string"></xs:element>
+							<xs:element name="description" type="xs:string"></xs:element>
+							<xs:element name="storageRack" type="Color"></xs:element>
+							<xs:element name="warehouseClerk" type="WarehousClerkID"></xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

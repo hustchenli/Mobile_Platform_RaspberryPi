@@ -1,0 +1,11 @@
+<map id="mobileplatform.h" name="mobileplatform.h">
+<area shape="rect" id="node14" href="$dcmotor_8h.html" title="to control the motor " alt="" coords="2335,155,2421,181"/>
+<area shape="rect" id="node16" href="$abstractsensor_8h.html" title="build a abstract class for all sensors " alt="" coords="812,229,941,256"/>
+<area shape="rect" id="node21" href="$linesensor_8h.html" title="to get the siganl of sensors " alt="" coords="1479,155,1578,181"/>
+<area shape="rect" id="node22" href="$colorsensor_8h.html" title="to sense the different color " alt="" coords="1129,155,1235,181"/>
+<area shape="rect" id="node23" href="$encoder_8h.html" title="measures the rotation angle of two wheels. " alt="" coords="647,155,733,181"/>
+<area shape="rect" id="node24" href="$ultrasonicsensor_8h.html" title="a sensor class for the sensor that can measure the hight from the ground to the above obstacle ..." alt="" coords="774,155,913,181"/>
+<area shape="rect" id="node25" href="$odometrie_8h.html" title="combined with a new thread, this class can through the pid control achieve the function that makes th..." alt="" coords="1696,80,1796,107"/>
+<area shape="rect" id="node28" href="$xmlparsen_8h.html" title="a class for the parse of the XML file " alt="" coords="2754,155,2855,181"/>
+<area shape="rect" id="node35" href="$sorter_8h.html" title="This Class is used to sort the logistics tasks, in order to get the optimal sort of the tasks..." alt="" coords="2769,80,2840,107"/>
+</map>

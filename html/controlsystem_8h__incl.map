@@ -1,0 +1,13 @@
+<map id="controlsystem.h" name="controlsystem.h">
+<area shape="rect" id="node2" href="$mainwindow_8h.html" title="build the GUI for the program " alt="" coords="392,80,502,107"/>
+<area shape="rect" id="node28" href="$mobileplatform_8h.html" title="to build new instances, and connect the sensor with Threads " alt="" coords="2499,80,2630,107"/>
+<area shape="rect" id="node10" href="$odometrie_8h.html" title="combined with a new thread, this class can through the pid control achieve the function that makes th..." alt="" coords="1884,155,1984,181"/>
+<area shape="rect" id="node13" href="$dcmotor_8h.html" title="to control the motor " alt="" coords="2842,229,2929,256"/>
+<area shape="rect" id="node16" href="$encoder_8h.html" title="measures the rotation angle of two wheels. " alt="" coords="1351,229,1436,256"/>
+<area shape="rect" id="node20" href="$abstractsensor_8h.html" title="build a abstract class for all sensors " alt="" coords="1624,304,1753,331"/>
+<area shape="rect" id="node21" href="$colorsensor_8h.html" title="to sense the different color " alt="" coords="2022,229,2128,256"/>
+<area shape="rect" id="node22" href="$ultrasonicsensor_8h.html" title="a sensor class for the sensor that can measure the hight from the ground to the above obstacle ..." alt="" coords="1544,229,1683,256"/>
+<area shape="rect" id="node23" href="$linesensor_8h.html" title="to get the siganl of sensors " alt="" coords="2152,229,2251,256"/>
+<area shape="rect" id="node34" href="$xmlparsen_8h.html" title="a class for the parse of the XML file " alt="" coords="3543,229,3644,256"/>
+<area shape="rect" id="node41" href="$sorter_8h.html" title="This Class is used to sort the logistics tasks, in order to get the optimal sort of the tasks..." alt="" coords="3602,155,3673,181"/>
+</map>

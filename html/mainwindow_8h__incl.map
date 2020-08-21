@@ -1,9 +1,0 @@
-<map id="mainwindow.h" name="mainwindow.h">
-<area shape="rect" id="node9" href="$odometrie_8h.html" title="combined with a new thread, this class can through the pid control achieve the function that makes th..." alt="" coords="1657,80,1757,107"/>
-<area shape="rect" id="node12" href="$dcmotor_8h.html" title="to control the motor " alt="" coords="2661,229,2747,256"/>
-<area shape="rect" id="node15" href="$encoder_8h.html" title="measures the rotation angle of two wheels. " alt="" coords="1099,155,1184,181"/>
-<area shape="rect" id="node19" href="$abstractsensor_8h.html" title="build a abstract class for all sensors " alt="" coords="1290,229,1419,256"/>
-<area shape="rect" id="node20" href="$colorsensor_8h.html" title="to sense the different color " alt="" coords="1208,155,1315,181"/>
-<area shape="rect" id="node21" href="$ultrasonicsensor_8h.html" title="a sensor class for the sensor that can measure the hight from the ground to the above obstacle ..." alt="" coords="1389,155,1528,181"/>
-<area shape="rect" id="node22" href="$linesensor_8h.html" title="to get the siganl of sensors " alt="" coords="1552,155,1651,181"/>
-</map>

@@ -1,6 +1,0 @@
-<map id="AbstractSensor" name="AbstractSensor">
-<area shape="rect" id="node3" href="$class_color_sensor.html" title="ColorSensor" alt="" coords="5,155,105,181"/>
-<area shape="rect" id="node4" href="$class_encoder.html" title="Encoder" alt="" coords="129,155,203,181"/>
-<area shape="rect" id="node5" href="$class_line_sensor.html" title="LineSensor" alt="" coords="227,155,321,181"/>
-<area shape="rect" id="node6" href="$class_ultrasonic_sensor.html" title="UltrasonicSensor" alt="" coords="345,155,475,181"/>
-</map>
